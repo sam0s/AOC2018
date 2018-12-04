@@ -5,10 +5,8 @@ https://adventofcode.com/2018/
 
 ### Languages Used
 
-- Day 1 1/2: C++
-- Day 2 2/2: Python
-
-- Day 2:
+- Day 1: C++ & Python
+- Day 2: Python
 - Day 3:
 
 
