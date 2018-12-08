@@ -7,7 +7,7 @@ https://adventofcode.com/2018/
 
 - Day 1: C++ & Python
 - Day 2: Python
-- Day 3:
+- Day 3: C++
 
 
 ###### Credits
