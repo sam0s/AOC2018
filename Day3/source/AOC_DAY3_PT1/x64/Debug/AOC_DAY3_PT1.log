@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  AOC_DAY3_PT1.cpp
+c:\users\sam tubb\desktop\advent of code\day3\aoc_day3_pt1\aoc_day3_pt1.cpp(102): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  AOC_DAY3_PT1.vcxproj -> C:\Users\Sam Tubb\Desktop\Advent of Code\Day3\x64\Debug\AOC_DAY3_PT1.exe
+  AOC_DAY3_PT1.vcxproj -> C:\Users\Sam Tubb\Desktop\Advent of Code\Day3\x64\Debug\AOC_DAY3_PT1.pdb (Full PDB)
